@@ -1,4 +1,4 @@
-package loc.stalex.shop;
+package loc.stalex.shop.controller;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
